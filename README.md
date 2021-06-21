@@ -1,5 +1,5 @@
 > # 💿 SDK
-💽 .NET 6 [DOWNLOAD]( https://www.institutoqualibest.com/blog/dicas/entenda-o-que-e-pesquisa-qualitativa-e-quantitativa/)
+💽 .NET 5 [DOWNLOAD]( https://dotnet.microsoft.com/download/dotnet/5.0)
 
 
 ***
